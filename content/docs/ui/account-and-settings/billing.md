@@ -11,6 +11,8 @@ navigation:
   show: true
 ---
 
+Get rid of the Start for Free buttons, We want to be able to pick a plan and not a free plan!!!!!
+
 You can update your billing details on the on the Billing tab of the [Account Details page](https://app.sendgrid.com/account/billing) in the UI. You can update your plan details on the Products tab of the [Account Details page](https://app.sendgrid.com/account/products).
 
 For more information about understanding your bill, see [Reading your invoice]({{root_url}}/ui/account-and-settings/reading-your-invoice/).
